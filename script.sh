@@ -12,3 +12,7 @@ lscpu
 cat /etc/*release
 nproc
 lsblk
+
+
+
+# the if statement is not supposed to exit here
